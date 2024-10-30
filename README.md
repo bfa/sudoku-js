@@ -5,6 +5,7 @@ A fun attempt at coding the popular logic-based number puzzle game, Sudoku. This
 ## Table of Contents
 
 - [Features](#features)
+- [Coming Soon](#coming-soon-in-order-of-priority)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
