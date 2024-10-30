@@ -1,0 +1,22 @@
+{
+  "name": "sudoku",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "live": "livereload public"
+  },
+  "keywords": [],
+  "author": "Brent Alexander",
+  "license": "ISC",
+  "description": "A fun attempt at coding the popular logic-based number puzzle game.",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "connect-livereload": "^0.6.1",
+    "livereload": "^0.9.3",
+    "nodemon": "^3.1.7"
+  }
+}
